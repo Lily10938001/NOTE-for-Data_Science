@@ -3,9 +3,10 @@
 
 1. PYTHON
 2. MySQL
-3. Data Mining
-4. Git
-5. 
-6. 
-7. 
-8. 
+3. Data Mining(資料分析及處理)
+4. Machine learning
+5. Git
+6. AIOT
+7. Linux
+8. AWS
+9. Tableau
