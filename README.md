@@ -3,13 +3,11 @@
 
 1. PYTHON
 2. MySQL
-3. Data Mining(資料分析及處理)
-4. Machine learning
-5. Power BI / Tableau
+3. MongoDB
+4. Data Mining(資料分析及處理)
+5. Machine learning
 6. Linux
 7. Git
 8. AWS
 9. AIOT
 10. 
-11. 
-12.
