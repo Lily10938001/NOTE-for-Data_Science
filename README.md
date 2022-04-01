@@ -9,6 +9,7 @@
 6. Linux
 7. Git
 8. AWS
-9. AIOT
-10. Splunk
-11. ELK
+9. GCP
+10. AIOT
+11. Splunk
+12. ELK
