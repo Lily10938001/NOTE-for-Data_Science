@@ -9,7 +9,7 @@
 6. Linux
 7. Git
 8. AWS
-9. GCP
+9. GCP(Google Cloud Platform)
 10. AIOT
 11. Splunk
-12. ELK
+12. ELK(Elasticsearch Logstash Kibana)
